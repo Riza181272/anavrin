@@ -2,5 +2,7 @@
   - Belajar HTML,CSS,Bootstrap,MaterializeCSS
   - Buat project website Anavrin Inc
   - Belajar lagi tentang Django Framework
-  - Belajar Raspberry pi Zero
+  - Belajar Raspberry pi Zero dan beli module-nya
+  - Belajar Git & Github
+  - Pertama kali buat Repository di Github.com setelah sign-up 2018
   
