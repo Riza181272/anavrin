@@ -1,7 +1,6 @@
 2021 Resolusi
   - Belajar HTML,CSS,Bootstrap,MaterializeCSS
   - Buat project website Anavrin Inc
-  - Beli iPad Air & Apple-pencil
   - Belajar lagi tentang Django Framework
   - Belajar Raspberry pi Zero
   
